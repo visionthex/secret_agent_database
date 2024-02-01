@@ -26,3 +26,7 @@ To start the application, run `npm start` (or `yarn start`).
 
 ## Resource
 [![Resource](https://skillicons.dev/icons?i=postgres)](https://dbdiagram.io)
+
+<p align="center">
+  <img src="https://github.com/visionthex/secret_agent_database/blob/main/img/tenor.gif" alt="Secret Spy Stuff">
+</p>
