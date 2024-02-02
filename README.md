@@ -1,6 +1,6 @@
-![databaase graph](https://github.com/visionthex/sdi-blended-workshop-databases-scaffold/blob/master/img/DBML.png)
-
 # Secret Agent Database
+
+![databaase graph](https://github.com/visionthex/secret_agent_database/blob/main/img/DBML.png)
 
 ## Description
 
