@@ -8,8 +8,8 @@ This project is a database designed to manage information about secret agents. I
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/visionthex/sdi-blended-workshop-databases-scaffold`.git`
-2. Navigate to the project directory: `cd sdi-blended-workshop-databases-scaffold`
+1. Clone the repository: `git clone https://github.com/visionthex/secret_agent_database`.git`
+2. Navigate to the project directory: `cd secret_agent_database`
 3. Install dependencies: `npm install`
 
 ## Usage
